@@ -7,5 +7,5 @@ as for the register button, it mainly equipped with a similar function as the lo
 under the sign in section, the slideshow is mainly presenting the favorite courses that offered by the website, and each page is equipped with a click button to proceed with further detailed information. 
 
 reflection video, 
-part 1:
-part 2:https://youtu.be/dKMvPzYH8Yk;
+part 1:https://youtu.be/pBZQTfztB6g； Yuhan Nie 
+part 2:https://youtu.be/dKMvPzYH8Yk; Xiaoxiao Wang 
